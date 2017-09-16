@@ -1,7 +1,13 @@
 # Hjartarson.github.io
-This is my homepage, change
-ysadiasdtoaTSD
+This is my homepage
 
 
-
-[Some Link]({% post_url 2017-09-15-my-first-post.md %})
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">
+      <h2>{{ post.title }}</h2>
+    </a>
+  </li>
+{% endfor %}
+</ul>
