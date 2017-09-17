@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Welcome Eagles!
 ---
 
 This is a page about something
