@@ -9,6 +9,6 @@ tetetetete
 
 Test text
 
-![My helpful screenshot]({{ site.url }}/assets/screen.png)
-
 </p>
+
+![My helpful screenshot]({{ site.url }}/assets/screen.png)
