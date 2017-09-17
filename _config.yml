@@ -6,4 +6,4 @@ Description: A great place
 
 # Build settings
 markdown: kramdown
-theme: jekyll-minimal-theme
+theme: jekyll-theme-minimal
