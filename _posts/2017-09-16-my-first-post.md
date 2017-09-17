@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The first blog post"
 ---
 <p style="text-align: center;">
-## Welcome to GitHub Pages
+Welcome to GitHub Pages
+
 tetetetete
 
 Test text
+
+![My helpful screenshot]({{ site.url }}/assets/screen.png)
+
 </p>
