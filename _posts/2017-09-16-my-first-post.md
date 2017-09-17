@@ -7,8 +7,7 @@ Welcome to GitHub Pages
 
 tetetetete
 
-Test text
-
+Test
 </p>
 
 ![My helpful screenshot]({{ site.url }}/assets/screen.png)
