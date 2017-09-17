@@ -53,7 +53,7 @@ r = requests.post(url, data=json.dumps(query))
 df = pd.read_csv(StringIO(r.text))
 ```
 
-
+    <matplotlib.axes._subplots.AxesSubplot at 0x21aee186f60>
 
 ![alt text](output_6_1.png "Logo Title Text 1")
 ![png](output_6_1.png)
