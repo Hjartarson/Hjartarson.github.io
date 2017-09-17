@@ -1,10 +1,6 @@
 ---
 layout: page
-title: Welcome Eagles!
+title: About
 ---
 
-This is a page about something
-
-Reasons:
-- its
-- this
+Me is Örn
