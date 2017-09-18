@@ -29,7 +29,7 @@ except StopIteration:
     query["query"].append(new_filter)
 ```
 
-![alt text](https://github.com/Hjartarson/Hjartarson.github.io/blob/master/_posts/output_6_1.png "Logo Title Text 1")
+![alt text](https://github.com/Hjartarson/Hjartarson.github.io/_posts/output_6_1.png "Logo Title Text 1")
 
 
 ![alt text](https://github.com/Hjartarson/Hjartarson.github.io/blob/master/_posts/output_6_1.png "Logo Title Text 1")
