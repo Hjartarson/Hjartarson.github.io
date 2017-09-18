@@ -30,5 +30,5 @@ except StopIteration:
 ```
 
 <div style='float: center'>
-  <img style='width: 600px' src="output_6_1.png"></img>
+  <img style='width: 600px' src="Hjartarson.github.io/_posts/output_6_1.png"></img>
 </div>
