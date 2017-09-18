@@ -32,4 +32,4 @@ except StopIteration:
 ![alt text](output_6_1.png "Title")
 
 <h2>Spectacular Mountain</h2>
-<img src="output_6_1.jpg" alt="Mountain View" style="width:304px;height:228px;">
+<img src="output_6_1.png" alt="Mountain View" style="width:304px;height:228px;">
