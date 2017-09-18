@@ -29,6 +29,4 @@ except StopIteration:
     query["query"].append(new_filter)
 ```
 
-![My helpful screenshot]({{ site.url }}output_6_1.png)
-
-![alt text](output_6_1.png "Logo Title Text 1")
+![alt text](output_6_1.png "Title")
