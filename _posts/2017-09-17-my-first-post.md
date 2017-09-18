@@ -30,3 +30,5 @@ except StopIteration:
 ```
 
 ![My helpful screenshot]({{ site.url }}output_6_1.png)
+
+![alt text](output_6_1.png "Logo Title Text 1")
