@@ -29,7 +29,6 @@ except StopIteration:
     query["query"].append(new_filter)
 ```
 
-![alt text](output_6_1.png "Title")
-
-<h2>Spectacular Mountain</h2>
-<img src="output_6_1.png" alt="Mountain View" style="width:304px;height:228px;">
+<div style='float: center'>
+  <img style='width: 600px' src="output_6_1.png"></img>
+</div>
