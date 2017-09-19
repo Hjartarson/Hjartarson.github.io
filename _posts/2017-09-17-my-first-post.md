@@ -29,17 +29,12 @@ except StopIteration:
     query["query"].append(new_filter)
 ```
 
-![My helpful screenshot]({{ site.url }}/images/Kiku.jpg)
+![My helpful screenshot]({{ site.url }}/_posts/images/Kiku.jpg)
 
-![My helpful screenshot]({{ site.url }}/images/graph.png)
+![My helpful screenshot]({{ site.url }}/_posts/images/graph.png)
 
 ![Kiku](images/Kiku.jpg)
 
-
-![alt text](https://github.com/Hjartarson/Hjartarson.github.io/_posts/output_6_1.png "Logo Title Text 1")
-
-
-![alt text](https://github.com/Hjartarson/Hjartarson.github.io/blob/master/_posts/output_6_1.png "Logo Title Text 1")
 
 <div style='float: center'>
   <img style='width: 600px' src="images/graph.png"></img>
