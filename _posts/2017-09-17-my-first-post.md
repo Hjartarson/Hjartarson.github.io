@@ -32,6 +32,10 @@ except StopIteration:
 ![Kiku](images/graph.png)
 ![Kiku](images/Kiku.jpg)
 
+{% figure caption:'The RStudio IDE' %}
+[<img class="postimageactual" src="images/Kiku.jpg" alt="History"/>](images/Kiku.jpg)
+{% endfigure %}
+
 
 <div style='float: center'>
   <img style='width: 600px' src="images/graph.png"></img>
