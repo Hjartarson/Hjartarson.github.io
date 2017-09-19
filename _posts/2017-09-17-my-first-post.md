@@ -29,7 +29,9 @@ except StopIteration:
     query["query"].append(new_filter)
 ```
 
-![my photo]({{ site.url }}/images/graph.png)
+![my photo](/images/graph.png)
+![my photo](images/graph.png)
+
 
 {% figure caption:'The RStudio IDE' %}
 [<img class="postimageactual" src="images/Kiku.jpg" alt="History"/>](images/Kiku.jpg)
