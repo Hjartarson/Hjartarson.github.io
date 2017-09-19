@@ -31,6 +31,7 @@ except StopIteration:
 
 ![Kiku](images/graph.png)
 ![Kiku](images/Kiku.jpg)
+![my photo]({{ site.url }}/images/graph.png)
 
 {% figure caption:'The RStudio IDE' %}
 [<img class="postimageactual" src="images/Kiku.jpg" alt="History"/>](images/Kiku.jpg)
