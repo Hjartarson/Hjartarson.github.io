@@ -29,6 +29,9 @@ except StopIteration:
     query["query"].append(new_filter)
 ```
 
+![Alt text](output_6_1.png?raw=true "Title")
+
+
 ![alt text](https://github.com/Hjartarson/Hjartarson.github.io/_posts/output_6_1.png "Logo Title Text 1")
 
 
