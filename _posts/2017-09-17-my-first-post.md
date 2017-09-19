@@ -29,7 +29,7 @@ except StopIteration:
     query["query"].append(new_filter)
 ```
 
-![Kiku](images/graph.png)
+![Kiku](images/Kiku.jpg)
 
 
 ![alt text](https://github.com/Hjartarson/Hjartarson.github.io/_posts/output_6_1.png "Logo Title Text 1")
