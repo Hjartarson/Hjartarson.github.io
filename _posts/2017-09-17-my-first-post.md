@@ -29,7 +29,7 @@ except StopIteration:
     query["query"].append(new_filter)
 ```
 
-![Alt text](output_6_1.png?raw=true "Title")
+![Kiku](images/graph.png)
 
 
 ![alt text](https://github.com/Hjartarson/Hjartarson.github.io/_posts/output_6_1.png "Logo Title Text 1")
@@ -38,5 +38,5 @@ except StopIteration:
 ![alt text](https://github.com/Hjartarson/Hjartarson.github.io/blob/master/_posts/output_6_1.png "Logo Title Text 1")
 
 <div style='float: center'>
-  <img style='width: 600px' src="https://github.com/Hjartarson/Hjartarson.github.io/blob/master/_posts/output_6_1.png"></img>
+  <img style='width: 600px' src="images/graph.png"></img>
 </div>
