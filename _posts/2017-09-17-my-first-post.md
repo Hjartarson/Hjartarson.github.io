@@ -8,7 +8,6 @@ from io import StringIO
 from IPython.core.display import HTML
 ```
 
-
 ```python
 url = 'http://api.scb.se/OV0104/v1/doris/sv/ssd/BE/BE0101/BE0101H/FoddaK'
 query = {"query": [], "response": {}}
