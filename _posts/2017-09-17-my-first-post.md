@@ -30,14 +30,3 @@ except StopIteration:
 ```
 
 ![my photo](/images/graph.png)
-![my photo](images/graph.png)
-
-
-{% figure caption:'The RStudio IDE' %}
-[<img class="postimageactual" src="images/Kiku.jpg" alt="History"/>](images/Kiku.jpg)
-{% endfigure %}
-
-
-<div style='float: center'>
-  <img style='width: 600px' src="images/graph.png"></img>
-</div>
