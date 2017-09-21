@@ -2,7 +2,8 @@
 title: Data Angle on Life
 author: Örn Hjartarson
 email: orn.hjartarson@gmail.com
-Description: A great place
+Description: > # bla bla until "baseurl:"
+	A great place, add stuff n stuff
 
 # Build settings
 markdown: kramdown
