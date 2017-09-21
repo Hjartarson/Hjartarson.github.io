@@ -2,11 +2,11 @@
 title: Data Angle on Life
 author: Örn Hjartarson
 email: orn.hjartarson@gmail.com
-Description: > # bla bla until "baseurl:"
-	A great place, add stuff n stuff
+Description: Insert a description here
+
+github_username: Hjartarson
 
 # Build settings
 markdown: kramdown
 theme: minima
 
-github_username:  Hjartarson
