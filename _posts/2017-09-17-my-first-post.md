@@ -1,6 +1,6 @@
 ---
 layout: post
-published: False
+published: True
 title: Post-1
 categories: jekyll update
 excerpt: Is this working?
