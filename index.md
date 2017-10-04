@@ -6,12 +6,3 @@
 #
 layout: home
 ---
-<ul>
-{% if site.linkedin_username %}
-  <li>
-    <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-      <i class="fa fa-linkedin"></i> LinkedIn
-    </a>
-  </li>
-{% endif %}
-</ul>
