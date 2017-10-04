@@ -1,14 +1,11 @@
 ---
 layout: post
 published: True
-title: Historical Intraday Stock Data 
+title: Historical Intraday Stock Price Data 
 # categories: jekyll update
 excerpt: Is this working?
 ---
 
-
-
-This is how we look at something
 
 ```python
 import requests
