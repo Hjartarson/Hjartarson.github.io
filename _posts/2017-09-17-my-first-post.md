@@ -1,10 +1,11 @@
 ---
 layout: post
 published: True
-title: Historical Intraday Stock Price Data 
+title: Stock Exchange | After 3 days decline you should buy
 # categories: jekyll update
 excerpt: Is this working?
 ---
+
 
 
 ```python
