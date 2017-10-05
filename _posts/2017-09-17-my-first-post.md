@@ -1,6 +1,6 @@
 ---
 layout: post
-published: False
+published: True
 title: Stock Exchange | After 3 days decline you should buy
 # categories: jekyll update
 excerpt: Is this working?
