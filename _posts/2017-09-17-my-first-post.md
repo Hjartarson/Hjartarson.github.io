@@ -1,6 +1,6 @@
 ---
 layout: post
-published: True
+published: False
 title: Stock Exchange | After 3 days decline you should buy
 # categories: jekyll update
 excerpt: Is this working?
@@ -38,4 +38,4 @@ except StopIteration:
     query["query"].append(new_filter)
 ```
 
-![my photo](/images/graph.png)
+![my photo](/images/FING-B.png)
