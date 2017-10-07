@@ -14,4 +14,8 @@ What I do like about it is that it's generating a lot of data, and that a succes
 
 Ultimately what we want to do is to separate these outcomes, i.e. up, down, natural, and that can only be done using what we know before that point in time. 
 
+![my photo](/images/SSAB-B-14-hist-False-pred-False.png)
+
+
+
 ![my photo](/images/FING-B.png)
