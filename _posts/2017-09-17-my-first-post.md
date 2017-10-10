@@ -15,6 +15,7 @@ can make a profit. That quote is something I heard on a podcast, half joke half 
 >I'm following the roulette principle, it has now been 13 days on black, one red day should come
 
 This time unfortunately not a joke and I hope they'll stay away from the casino.
+
 There's a lot of these kind of truths flying around which is what I believe a product of "Look and you will find it-behaviour". You'll identify and react to the outcome only when the theories are fulfilled and there's your fuel to the fire. I can admit that I've been a victim as well, thinking that if a stock opens with a big drop it will increase during the day due to an overreaction, but at the same time I don't believe it, it's too easy. The data is avaliable, so why not test it?
 
 It's Wednesday morning, the Stock Exchange just opened and the opening price is set. Everything to the left of that
