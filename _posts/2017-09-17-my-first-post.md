@@ -23,4 +23,4 @@ Ultimately what we want to do is to separate these outcomes, i.e. up, down, natu
 what we know before that point in time. 
 
 
-![my photo](/images/FING-B.png)
+![my photo](/images/overreaction.png)
