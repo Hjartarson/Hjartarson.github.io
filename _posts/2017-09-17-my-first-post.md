@@ -21,7 +21,7 @@ There's a lot of these kind of truths flying around which is what I believe a pr
 It's Wednesday morning, the Stock Exchange just opened and the opening price is set. Everything to the left of that
 point is history and known. Everything to the right together with today (except the opening price) is the future and
 what we want to successfully guess. 
-![my photo](/images/SSAB-B-14-hist-False-pred-False.png)
+![my photo](/images/9-hist-True-pred-True.png)
 
 
 
@@ -32,4 +32,4 @@ Ultimately what we want to do is to separate these outcomes, i.e. up, down, natu
 what we know before that point in time. 
 
 
-![my photo](/images/overreaction.png)
+![my photo](/images/dependence.png)
