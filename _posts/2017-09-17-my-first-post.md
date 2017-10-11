@@ -18,19 +18,14 @@ This time unfortunately not a joke and I hope they'll stay away from the casino.
 
 There's a lot of these kind of truths flying around which is what I believe a product of "Look and you will find it-behaviour". You'll identify and react to the outcome only when the theories are fulfilled and there's your fuel to the fire. I can admit that I've been a victim as well, thinking that if a stock opens with a big drop it will increase during the day due to an overreaction, but at the same time I don't believe it, it's too easy. The data is avaliable, so why not test it?
 
-It's Wednesday morning, the Stock Exchange just opened and the opening price is set. Everything to the left of that
-point is history and known. Everything to the right together with today (except the opening price) is the future and
-what we want to successfully guess. 
+It's Wednesday morning, the Stock Exchange just opened and the opening price is set. Everything to the left of that point is history and known. Everything to the right together with today (except the opening price) is the future and what we want to successfully guess. 
+
 ![my photo](/images/9-hist-True-pred-True.png)
 
-<img align="right" src="/images/all-9-hist-True-pred-True.png" alt="all" style="height:228px;">
+We can add whatever measures we want, but only what is known Wednesday morning.
 
+![my photo](/images/all-9-hist-True-pred-True.png)
 
-Making our closing price guess by looking at the potential overreaction I mentioned earlier,
-
-
-Ultimately what we want to do is to separate these outcomes, i.e. up, down, natural, and that can only be done using
-what we know before that point in time. 
-
+Ultimately what we want to do is to separate these outcomes, i.e. up, down and that can only be done using what we know before that point in time. Looking at 2 of the variables we have generated, for example the close to open percentage change and the 3 days percentage change, makes it posible to visualize it before we do something more fancy.
 
 ![my photo](/images/dependence.png)
