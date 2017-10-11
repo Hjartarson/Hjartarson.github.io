@@ -23,6 +23,7 @@ point is history and known. Everything to the right together with today (except 
 what we want to successfully guess. 
 ![my photo](/images/9-hist-True-pred-True.png)
 
+<img align="right" src="images/all-9-hist-True-pred-True.png">
 
 
 Making our closing price guess by looking at the potential overreaction I mentioned earlier,
