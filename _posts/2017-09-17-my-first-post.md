@@ -21,7 +21,7 @@ There's a lot of these kind of truths flying around which is what I believe a pr
 It's Wednesday morning, the Stock Exchange just opened and the opening price is set. Everything to the left of that
 point is history and known. Everything to the right together with today (except the opening price) is the future and
 what we want to successfully guess. 
-![my photo](/images/9-hist-True-pred-True.png =250x)
+![my photo](/images/9-hist-True-pred-True.png)
 
 <img align="right" src="/images/all-9-hist-True-pred-True.png" alt="all" style="width:304px;height:228px;">>
 
