@@ -1,2 +1,13 @@
-markdown:   kramdown
+# basic options
+title: ML Trader
+author: Örn Hjartarson
+email: orn.hjartarson@gmail.com
+description: Initially my posts will treat the stock market, I know nothing about the stock market and my approach is strictly technical/quantitative. Errors and misconceptions will hail and I need you to correct me.
+
+github_username: Hjartarson
+linkedin_username: ornhjartarson
+
+# Build settings
+markdown: kramdown
+theme: minima
 style:  kjhealy
