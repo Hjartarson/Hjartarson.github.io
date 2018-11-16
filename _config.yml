@@ -1,4 +1,7 @@
 # main text of home
+markdown:   kramdown
+style:  kjhealy
+
 name: John Doe
 bio: A Man who travels the world eating noodles
 
