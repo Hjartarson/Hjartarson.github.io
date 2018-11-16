@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://hjartarson.github.io/resume
 
-url: https://hjartarson.github.io/resume
+url: https://hjartarson.github.io
 # your url: http://hjartarson.github.io
 
 permalink: /:title/
