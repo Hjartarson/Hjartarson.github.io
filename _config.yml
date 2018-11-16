@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://hjartarson.github.io/mycv/cv
+resume-url: https://hjartarson.github.io/mycv/cv.md
 
 url: https://koppl.in/indigo
 # your url: http://hjartarson.github.io
