@@ -1,9 +1,5 @@
-# main text of home
-markdown:   kramdown
-style:  kjhealy
-
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Örn Hjartarson
+bio: A Curious Character with a passion for the Depth in Data
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -57,8 +53,8 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
+    Hjartarson:
+        name: Örn
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
