@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Eagle's CV
+title: Örn's CV
 ---
-# David Whipp
-Associate professor, University of Helsinki
+# Örn Hjartarson
+Data Scientist, NetEnt
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
 P.O. Box 68 (Gustaf Hällströmin katu 2b)<br/>
@@ -23,7 +23,7 @@ FI-00014 University of Helsinki, Finland<br/>
 ## Education
 
 `2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+**MSc**, *Umeå University*, Umeå.
 
 `1998-2002`
 **B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
