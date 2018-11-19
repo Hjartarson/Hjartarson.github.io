@@ -1,16 +1,11 @@
 ---
 title: About
-layout: page
+layout: cv
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Örn is a Data Scientist with passion for data analysis and visualization, a desire to understand and continuously learn. Taught with a solid ground in mathematics and physics which has given patience and analytic capacity. He values transparency and a fast-paced international work environment. Loves to code in python and has several data analysis projects ongoing on his free time.
 </p>
 
 <p>
