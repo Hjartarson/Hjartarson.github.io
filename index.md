@@ -37,20 +37,6 @@ FI-00014 University of Helsinki, Finland<br/>
 **Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
 
-### Research funding
-
-`2014–2018`
-**Academy Project**, *Academy of Finland*, Finland, 451 763€. Sole PI.<br/>
-What controls deformation in a ‘bent’ 3D orogen? The effects of spatially variable rock strength, erosion and mass transport on the tectonics of the Bolivian Andes
-
-`2014–2017`
-**Three-Year Research Project**, *University of Helsinki*, Helsinki, Finland, 145 000€. Sole PI.<br/>
-What controls strain partitioning at obliquely convergent ocean-continent margins? 3D dynamics of crustal deformation along the western Andean margin
-
-`2010-2012`
-**ACEnet Research Fellowships Program**, *Atlantic Canada Computational Excellence Network (ACEnet)*, Canada, $40 000 [CAD]. Co-PI with C. Beaumont.<br/>
-3-D plateau formation and evolution from numerical model experiments
-
 ### Main courses
 
 `2013-present`
