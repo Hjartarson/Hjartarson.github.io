@@ -17,12 +17,18 @@ Data Scientist, NetEnt
 ## Experience
 
 `2015-present`
+**Data Scientist**, *NetEnt*, Stockholm, Sweden.  
+Extract insights from data and share the insights through explanation and visualizations.
+
+`2015-present`
+**Data Scientist**, *NetEnt*, Stockholm, Sweden.
+`2015-present`
 **Data Scientist**, *NetEnt*, Stockholm, Sweden.
 
 ## Education
 
 `2008-2013`
-**MSc., Computational Physics**, *Umeå University*, Umeå, Sweden.
+**Master of Science (M.Sc.), Engineering Physics**, *Umeå University*, Umeå, Sweden. <a href="https://www.umu.se/en/education/subjects/engineering-physics/"><i class="fas fa-home"></i></a>
 
 ### Short courses
 
@@ -30,18 +36,15 @@ Data Scientist, NetEnt
 **Low-temperature thermochronology**, *GeoDoc short course, University of Helsinki*, Helsinki, Finland. <a href="https://thermochron.github.io"><i class="fas fa-home"></i></a> <a href="https://www.youtube.com/channel/UCNL_O8rOUsIRRzhvqh8qgjg"><i class="fab fa-youtube"></i></a><br/>
 Co-taught with Ilmo Kukkonen and invited lecturers Cécile Gautheron, Christoph Glotzbach, and Clare Warren.
 
-`2016`
-**Introduction to lithospheric geodynamic modelling**, *Nordic Geological Winter Meeting*, Helsinki, Finland. <a href="https://github.com/HUGG/NGWM2016-modelling-course"><i class="fas fa-home"></i></a><br/>
-Co-taught with Lars Kaislaniemi
 
 
 ## Languages
 
-English: Native
+Python: Native
 
-Finnish: CEFR level A1.3
+Swedish: Native
 
-French: Basic knowledge
+English: Fluent
 
 ## Memberships
 

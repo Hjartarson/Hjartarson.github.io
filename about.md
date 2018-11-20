@@ -29,15 +29,15 @@ Currently working at NetEnt as a Data Scientist where the work consists of inter
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">Housing Market</a></li>
+	<li><a href="https://github.com/">Stock Market</a></li>
+	<li><a href="https://github.com/">SCB</a></li>
 </ul>
 
 <h2>Employment</h2>
 
 <ul>
-	<li>Data Scientist - NetEnt</li>
+    <li>Data Scientist<a href="https://netent.com/">NetEnt</a></li>
 	<li></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://netent.com/">Dolor Lorem</a></li>
 </ul>
