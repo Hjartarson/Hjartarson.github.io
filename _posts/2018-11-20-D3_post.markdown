@@ -1,17 +1,17 @@
 ---
-title:  "D3.js in Jekyll Markdown"
+title: "D3.js in Jekyll Markdown"
 layout: post
-date:   2017-01-02 15:00:00
-categories: [code]
-tags:
-- code
-- d3js
+date: 2016-02-25 22:44
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
 star: true
 category: blog
-author: orn
-description: D3.js in Jekyll Markdown
+author: johndoe
+description: Markdown summary with different options
 ---
-
 
  I've used d3.select to target an element `<div id="example">` in this document:
 
