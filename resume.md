@@ -19,10 +19,7 @@ Work Experience
 *   **Consultant** (Stockholm)
 
     *Development Engineer*, 2014 - 2015
-
-    -	Established an independent private tutoring practice
-    -   Offer professional software training in MS Office and tutoring in high school mathematics
-    -	Offer 3D printing seminars covering assembly of open source printers and 3D printing software
+	- Scania, Atlas Copco
 <br>
 <br>
 *   **[Optronic](http://www.optronic.se/)** (Skellefteå)
@@ -45,6 +42,6 @@ Skills and Interests
 ------
 
 * Languages: Fluency in written and spoken Mandarin Chinese; proficiency in French
-* Python: Experienced with Python programming and Python libraries for data science included in the Anaconda distribution including NumPy, pandas, SciPy, Scikit-learn and Natural Language Tool Kit (NLTK)
+* Python: Experienced with Python programming and Python libraries for data science included in the Anaconda distribution including NumPy, pandas, SciPy, Scikit-learn.
 * Web Skills: Experienced with PhantomJS for web automation and BeautifulSoup for web scraping, HTML, CSS, JavaScript, git
-* Operating Systems: Linux and bash scripting, Windows 10, OS X, Docker, virtual machines, virtual environments
+* Other: bash, Git

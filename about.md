@@ -9,7 +9,7 @@ layout: page
 </p>
 
 <p>
-Currently working at NetEnt as a Data Scientist where the work consists of interaction with different stakeholders with varying data experience, some data driven (love numbers) others insight driven (love to take the right decision). 
+Currently working at NetEnt as a Data Scientist where the work consists of interaction with different stakeholders with varying data experience, some data driven (love numbers) others insight driven (love to take well informed decisions). 
 </p>
 
 <h2>Skills</h2>
@@ -23,7 +23,6 @@ Currently working at NetEnt as a Data Scientist where the work consists of inter
     </ul>
 	<li>Git</li>
 	<li>SQL</li>
-	<li>Scrum and Kanban</li>
 </ul>
 
 <h2>Projects</h2>
@@ -37,7 +36,5 @@ Currently working at NetEnt as a Data Scientist where the work consists of inter
 <h2>Employment</h2>
 
 <ul>
-    <li>Data Scientist<a href="https://netent.com/">NetEnt</a></li>
-	<li></li>
-	<li><a href="https://netent.com/">Dolor Lorem</a></li>
+    <li>Data Scientist, <a href="https://netent.com/">NetEnt</a></li>
 </ul>
