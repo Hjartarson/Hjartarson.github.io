@@ -20,13 +20,14 @@ Work Experience
 
     *Development Engineer*, 2014 - 2015
 	- Scania, Atlas Copco
+	- Test Automation
 <br>
 <br>
 *   **[Optronic](http://www.optronic.se/)** (Skellefteå)
 
     *Development Engineer*, 2013
 
-    -   Signal processing, object detection, regression analysis and optimization.
+    -   Signal processing, object detection, data analysis.
 
 
 
